@@ -127,8 +127,8 @@ git push -u origin main
 ```
 
 by :
-github : [rikindrn](https://github.com/rikindrn)
-twitter : @rikindrn
-telegram : @rikindrn
+github : https://github.com/ivanatma
+twitter : @ivanatma
+telegram : @ivanatma
 
 
